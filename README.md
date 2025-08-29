@@ -28,3 +28,13 @@ it! Also I apologize for halfassing this readme.
 
 Lastly I want to state that I am not in any way affiliated to any of the
 creators of any project or repos related to this repo if that wasn't obvious.
+
+| Resolution | Folder(s)                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------- |
+| 1920x1080  | market, colony, room, mountains, forest, street, tokyo, moon, home                       |
+| 2560x1440  | sahara, firewatch                                                                        |
+| 3840x2160  | aurora, forest, island                                                                   |
+| 4500x3000  | chihuahuan                                                                               |
+| 5120x2880  | forest, factory, exodus, mojave, earth |
+| 5760x3240  | gradient                                                                                 |
+| 6016x3384  | desert, lake, beach, cliffs                                                              |
